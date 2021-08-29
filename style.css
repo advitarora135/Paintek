@@ -1,0 +1,28 @@
+body{
+  background-color: gainsboro;
+}
+  canvas{
+    cursor: crosshair;
+    background-color: white;
+    border-color: cyan;
+    border-left-style: solid;
+    border-top-style: solid;
+  }
+
+  button {
+    background-color: transparent;
+    border: none;
+    font-size: 16px;
+  }
+
+  input
+  {
+    margin-right: 20px;
+    background-color: rgba(255, 255, 255, 0.521);
+    border-radius: 75;
+  }
+  #color
+  {
+    background-color: transparent;
+    border: transparent;
+  }
